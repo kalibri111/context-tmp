@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/tests.dir/stress.cpp.o CMakeFiles/tests.dir/unit.cpp.o -o tests  ../src/libswitch_context.a ../lib/libgtest_main.a ../lib/libgtest.a
