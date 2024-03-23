@@ -1,2 +1,0 @@
-/usr/bin/ar qc libswitch_context.a CMakeFiles/switch_context.dir/switch.cpp.o CMakeFiles/switch_context.dir/x86_64/context.S.o
-/usr/bin/ranlib libswitch_context.a

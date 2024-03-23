@@ -1,5 +1,0 @@
-if(EXISTS "/tmp/switch/cmake-build-debug-switch/tests/tests[1]_tests.cmake")
-  include("/tmp/switch/cmake-build-debug-switch/tests/tests[1]_tests.cmake")
-else()
-  add_test(tests_NOT_BUILT tests_NOT_BUILT)
-endif()
